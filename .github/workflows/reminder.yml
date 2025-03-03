@@ -2,7 +2,7 @@ name: Daily Reminder Bot
 
 on:
   schedule:
-    - cron: '15 23,22 * * *'  # Runs at 12:00 UTC daily (adjust if needed)
+    - cron: '30 23,22 * * *'
   workflow_dispatch:  # Manual trigger button in Actions tab
 
 jobs:
