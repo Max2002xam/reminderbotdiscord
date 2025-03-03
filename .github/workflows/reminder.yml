@@ -1,4 +1,4 @@
-ame: Daily Reminder Bot
+name: Daily Reminder Bot
 
 on:
   schedule:
