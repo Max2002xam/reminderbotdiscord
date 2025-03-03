@@ -7,11 +7,10 @@ import os
 BOT_TOKEN = os.getenv('DISCORD_BOT_TOKEN')
 FRIEND_USER_ID = int(os.getenv('FRIEND_USER_ID'))
 REMINDER_MESSAGES = [
-    "Hey! Daily reminder to work on the Ada Bot Project 🚀",
-    "Yo! Time to put some work into Ada Bot — you got this 💻",
-    "Friendly ping! Ada Bot project won't build itself 🛠️",
-    "Your future self will thank you for working on Ada Bot today 🔥",
-    "Just a heads up — Ada Bot still needs your attention 👀"
+    "Bosse ou je viens chez toi!", "Bosse ou Ada sera très déçue!",
+    "Bosse ou je viendrai pour ta petite soeur! (Gneu gneu.. J'ai pas de petite soeur... Attend 9 mois pour voir!)",
+    "Bosse ou alors... Je crée le mouvement #Balance ton flemmard",
+    "Crée ta Waifu ai comme je me crée de ennui en swipant à droite sur des mineures!"
 ]
 
 # --- Bot Setup ---
