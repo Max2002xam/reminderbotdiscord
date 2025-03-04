@@ -10,7 +10,10 @@ REMINDER_MESSAGES = [
     "Bosse ou je viens chez toi!", "Bosse ou Ada sera très déçue!",
     "Bosse ou je viendrai pour ta petite soeur! (Gneu gneu.. J'ai pas de petite soeur... Attend 9 mois pour voir!)",
     "Bosse ou alors... Je crée le mouvement #Balance ton flemmard",
-    "Crée ta Waifu ai comme je me crée de ennui en swipant à droite sur des mineures!"
+    "Crée ta Waifu ai comme je me crée de ennui en swipant à droite sur des mineures!",
+    "Hello! Comment ça va? :) C'est moi Le vrai Norman! HAHAHAHAHA.... Bref, travaille ou je m'énerve",
+    "Que dis un dromadaire à un flemmard? BOSSE! Que dis un chameau à un flemmard? BOSSE BOSSE! Et maintenant que dis-je à un flemmard? bah cette phrase en fait...",
+    "Je suis à 100 M de chez toi et ce nombre ne fera que diminuer tant que tu n'auras pas commencé à travailler!"
 ]
 
 # --- Bot Setup ---
