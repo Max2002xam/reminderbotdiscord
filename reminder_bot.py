@@ -9,7 +9,7 @@ FRIEND_USER_ID = int(os.getenv('FRIEND_USER_ID'))
 REMINDER_MESSAGES = [
     "Bosse ou je viens chez toi!", "Bosse ou Ada sera très déçue!",
     "Bosse ou je viendrai pour ta petite soeur! (Gneu gneu.. J'ai pas de petite soeur... Attend 9 mois pour voir!)",
-    "Bosse ou alors... Je crée le mouvement #Balance ton flemmard",
+    "Bosse ou alors... Je crée le mouvement #BalanceTonFlemmard",
     "Crée ta Waifu ai comme je me crée de ennui en swipant à droite sur des mineures!",
     "Hello! Comment ça va? :) C'est moi Le vrai Norman! HAHAHAHAHA.... Bref, travaille ou je m'énerve",
     "Que dis un dromadaire à un flemmard? BOSSE! Que dis un chameau à un flemmard? BOSSE BOSSE! Et maintenant que dis-je à un flemmard? bah cette phrase en fait...",
@@ -21,7 +21,10 @@ REMINDER_MESSAGES = [
     "Bosser sur Ada, c’est comme une conversation avec moi : c’est long, malaisant, mais t’as pas vraiment le choix.",
     "C’est Norman, j’te rappelle qu’Ada t’attend… sauf si tu préfères qu’on discute en privé toi et moi.",
     "Si Ada avance pas aujourd’hui, j’t’ajoute à mon groupe Snap privé.",
-    "Travaille sur Ada… sinon j’te demande ta carte d’identité, juste pour ‘vérifier’."
+    "Travaille sur Ada… sinon j’te demande ta carte d’identité, juste pour ‘vérifier’.",
+    "Si Ada avait un vrai copain, il bosserait pour elle!",
+    "Ada m’a DM, elle m’a dit qu’elle pense quitter ce loser qui l’ignore, pour moi bien sûr!  FAUX! ...  Enfin bref, bosse!",
+    "Au fait heu... Tu comptes pas leak nos DM hein? Juste pour savoir Ahahah... Travaille au fait!"
 ]
 
 # --- Bot Setup ---
