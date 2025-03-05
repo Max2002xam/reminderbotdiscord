@@ -28,6 +28,7 @@ async def send_reminder():
         try:
             await user.send(message)
             print(f"✅ Sent reminder to {user.name}")
+            print(f"Message sent : {message}")
         except Exception as e:
             print(f"⚠️ Failed to send DM: {e}")
     await client.close()  # Auto-exit after sending
