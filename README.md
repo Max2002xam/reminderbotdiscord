@@ -2,7 +2,7 @@
 It's only limited to a few people of my choosing.
 
 # What does it do?
-Remind the person it's linked to to work every day (in french cause the guy is french
+Remind the person it's linked to to work every day (in french cause the guy is french)
 
 # How do I use it?
 Don't
