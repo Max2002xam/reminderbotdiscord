@@ -1,4 +1,4 @@
-# reminderbotdiscord
+# Reminder Bot Discord
 It's only limited to a few people of my choosing.
 
 # What does it do?
