@@ -24,7 +24,8 @@ REMINDER_MESSAGES = [
     "Travaille sur Ada… sinon j’te demande ta carte d’identité, juste pour ‘vérifier’.",
     "Si Ada avait un vrai copain, il bosserait pour elle!",
     "Ada m’a DM, elle m’a dit qu’elle pense quitter ce loser qui l’ignore, pour moi bien sûr!  FAUX! ...  Enfin bref, bosse!",
-    "Au fait heu... Tu comptes pas leak nos DM hein? Juste pour savoir Ahahah... Travaille au fait!"
+    "Au fait heu... Tu comptes pas leak nos DM hein? Juste pour savoir Ahahah... Travaille au fait!",
+    "Tu bosses ou je bez tes gosses!"
 ]
 
 # --- Bot Setup ---
