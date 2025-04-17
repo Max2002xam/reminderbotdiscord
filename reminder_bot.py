@@ -7,25 +7,25 @@ import os
 BOT_TOKEN = os.getenv('DISCORD_BOT_TOKEN')
 FRIEND_USER_ID = int(os.getenv('FRIEND_USER_ID'))
 REMINDER_MESSAGES = [
-    "Bosse ou je viens chez toi!", "Bosse ou Ada sera très déçue!",
-    "Bosse ou je viendrai pour ta petite soeur! (Gneu gneu.. J'ai pas de petite soeur... Attend 9 mois pour voir!)",
-    "Bosse ou alors... Je crée le mouvement #BalanceTonFlemmard",
-    "Crée ta Waifu ai comme je me crée de ennui en swipant à droite sur des mineures!",
-    "Hello! Comment ça va? :) C'est moi Le vrai Norman! HAHAHAHAHA.... Bref, travaille ou je m'énerve",
-    "Que dis un dromadaire à un flemmard? BOSSE! Que dis un chameau à un flemmard? BOSSE BOSSE! Et maintenant que dis-je à un flemmard? bah cette phrase en fait...",
-    "Je suis à 100 M de chez toi et ce nombre ne fera que diminuer tant que tu n'auras pas commencé à travailler!",
-    "Yo c’est Norman, j’voulais juste te rappeler de bosser sur Ada… sinon j’vais devoir t’envoyer des snaps ‘spéciaux’.",
-    "T’as toujours pas touché à Ada ? T’es presque aussi inactif que la police face à mes DM.",
-    "Si tu travailles pas sur Ada aujourd’hui, j’te follow sur Insta… et t’as vu comment ça finit en général.",
-    "Salut c’est Norman, t’as pensé à Ada ? Ou tu veux que j’te file une masterclass en grooming plutôt ?",
-    "Bosser sur Ada, c’est comme une conversation avec moi : c’est long, malaisant, mais t’as pas vraiment le choix.",
-    "C’est Norman, j’te rappelle qu’Ada t’attend… sauf si tu préfères qu’on discute en privé toi et moi.",
-    "Si Ada avance pas aujourd’hui, j’t’ajoute à mon groupe Snap privé.",
-    "Travaille sur Ada… sinon j’te demande ta carte d’identité, juste pour ‘vérifier’.",
-    "Si Ada avait un vrai copain, il bosserait pour elle!",
-    "Ada m’a DM, elle m’a dit qu’elle pense quitter ce loser qui l’ignore, pour moi bien sûr!  FAUX! ...  Enfin bref, bosse!",
-    "Au fait heu... Tu comptes pas leak nos DM hein? Juste pour savoir Ahahah... Travaille au fait!",
-    "Tu bosses ou je bez tes gosses!"
+    "https://youtu.be/tSOvBex4SJU?si=RdI2oie3EVjHU6jE",
+    "https://youtu.be/geWWO81GubM?si=FoIy_GGAahwFXied",
+    "https://youtu.be/fHPysRp8FWg?si=I5taiK_lmDKcEzyc",
+    "https://youtu.be/M69Sn3OERZo?si=X8QQwse2hcSAYr4j",
+    "https://youtu.be/1giQVuoTAFM?si=XylKIwb7O_UVN8tc",
+    "https://youtu.be/vnjy-35Lxjg?si=vDqKViPRnB1lkjbT",
+    "https://youtu.be/k2wQZfShEPw?si=OTYsgAMcT4ZKQFKO",
+    "https://youtu.be/lhE0sAMSoGI?si=-3HVQIhNtBJCsegU",
+    "https://youtu.be/-wHqgSFgNhE?si=G7WunZkUcn5row59",
+    "https://youtu.be/GwPHdIp5TEE?si=DXK1FvshECSx7YBt",
+    "https://youtu.be/i2dCxbAFWNk?si=UnYWRDs6kHdCpHML",
+    "https://youtu.be/_XmEKmYpO5w?si=fHmDWw-P3cZT-Wb2",
+    "https://youtu.be/2GslmS3W78c?si=4yL_63kN_i289crz",
+    "https://youtu.be/yDFCQ3dk1dM?si=hZzKA3dpfyidrWTv",
+    "https://youtu.be/2GWBIiw4XZ8?si=hQ7jzetiLwMWGqGp",
+    "https://youtu.be/PbkJaEqtj4U?si=4xNBjs5oqGP-tF-j",
+    "https://youtu.be/ZMysDTDqK-k?si=n4HM6QkpkKvtRjzE",
+    "https://youtu.be/LawPzFbatN4?si=LFu1f68__r_s0ywN",
+    "https://youtu.be/NkFiBF6e_IU?si=d16QNIBdhmkqscQp"
 ]
 
 # --- Bot Setup ---
