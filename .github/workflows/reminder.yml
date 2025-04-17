@@ -1,6 +1,8 @@
 name: Daily Reminder Bot
 
 on:
+  schedule:
+    - cron: '*/60 * * * *'
   workflow_dispatch:  # Manual trigger button in Actions tab
 
 jobs:
