@@ -7,25 +7,25 @@ import os
 BOT_TOKEN = os.getenv('DISCORD_BOT_TOKEN')
 FRIEND_USER_ID = int(os.getenv('FRIEND_USER_ID'))
 REMINDER_MESSAGES = [
-    "https://youtu.be/tSOvBex4SJU?si=RdI2oie3EVjHU6jE",
-    "https://youtu.be/geWWO81GubM?si=FoIy_GGAahwFXied",
-    "https://youtu.be/fHPysRp8FWg?si=I5taiK_lmDKcEzyc",
-    "https://youtu.be/M69Sn3OERZo?si=X8QQwse2hcSAYr4j",
-    "https://youtu.be/1giQVuoTAFM?si=XylKIwb7O_UVN8tc",
-    "https://youtu.be/vnjy-35Lxjg?si=vDqKViPRnB1lkjbT",
-    "https://youtu.be/k2wQZfShEPw?si=OTYsgAMcT4ZKQFKO",
-    "https://youtu.be/lhE0sAMSoGI?si=-3HVQIhNtBJCsegU",
-    "https://youtu.be/-wHqgSFgNhE?si=G7WunZkUcn5row59",
-    "https://youtu.be/GwPHdIp5TEE?si=DXK1FvshECSx7YBt",
-    "https://youtu.be/i2dCxbAFWNk?si=UnYWRDs6kHdCpHML",
-    "https://youtu.be/_XmEKmYpO5w?si=fHmDWw-P3cZT-Wb2",
-    "https://youtu.be/2GslmS3W78c?si=4yL_63kN_i289crz",
-    "https://youtu.be/yDFCQ3dk1dM?si=hZzKA3dpfyidrWTv",
-    "https://youtu.be/2GWBIiw4XZ8?si=hQ7jzetiLwMWGqGp",
-    "https://youtu.be/PbkJaEqtj4U?si=4xNBjs5oqGP-tF-j",
-    "https://youtu.be/ZMysDTDqK-k?si=n4HM6QkpkKvtRjzE",
-    "https://youtu.be/LawPzFbatN4?si=LFu1f68__r_s0ywN",
-    "https://youtu.be/NkFiBF6e_IU?si=d16QNIBdhmkqscQp"
+    "Tu dois repasser des exams, j'aurais bien fait une vidéo là dessus, mais bon, j'aurais plagiat cyprien avec l'école et tout... Bref bosse",
+    "Tu savais que 60% de l'architecture du première ordinateur avait été trouvé par pur hasard? Non c'est pas vrai, t'aurais pu le savoir si tu bossais!",
+    "Si tu échoues, je ferais une vidéo en featuring avec toi! Donc t'as intérêt à bosser!",
+    "Tu connais la différence et le point commun entre en chômeur et un youtubeur? Les deux ont échouer leurs études! Mais l'un n'en branle pas une, l'autre en branle plusieur pas mûres!",
+    "'Un jour je serai le meilleur chômeur!' : Toi si tu bosses pas assez!",
+    "Pour chaque jour que tu bosses pas, j'envoie un mp à Ada!",
+    "hey Salut tu me reconnais hein! J'oganise un concours pour mes plus grand fans! Intéressé? Tout ce que tu dois faire, c'est raté tes examens, et je viendrais chez toi!",
+    "Travaille.",
+    "Si tu réussis tes exams, j'avoue tout!",
+    "Tu gagnes?",
+    "Grindset entrepreneur, au moins, dans toutes mes accusations, j'ai jamais été accusé de vendre des formations! C'est déjà ça non?",
+    "On a pas d'omelette sans casser des oeufs! Et j'en ai cassé pas mel des oeufs si tu vois ce que je veux dire!",
+    "https://fyooyzbm.filerobot.com/v7/https://static01.nicematin.com/media/npo/xlarge/2016/04/maxpeopleworld877824.jpg?w=480&h=382&gravity=auto&func=crop",
+    "https://prmeng.rosselcdn.net/sites/default/files/dpistyles_v2/prm_16_9_856w/2024/08/12/node_550223/44451020/public/2024/08/12/23887772.png?itok=ISc952Wi1723450445",
+    "https://media.tenor.com/h31MaizyP6UAAAAM/norman-thavaud-youtuber.gif",
+    "https://media.tenor.com/SCCPpyuLLN0AAAAM/norman-thavaud-tu-veux-sortir-avec-moi.gif",
+    "https://media.tenor.com/1_ezLtwam7wAAAAM/nul-norman-thavaud.gif",
+    "Salut c'est Norman, si tu échoues tes exams, tu devras m'envoyer une photo de toi nu! Déso! C'est les règles!",
+    "Alors? Ça bosse?"
 ]
 
 # --- Bot Setup ---
