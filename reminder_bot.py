@@ -25,7 +25,14 @@ REMINDER_MESSAGES = [
     "https://media.tenor.com/SCCPpyuLLN0AAAAM/norman-thavaud-tu-veux-sortir-avec-moi.gif",
     "https://media.tenor.com/1_ezLtwam7wAAAAM/nul-norman-thavaud.gif",
     "Salut c'est Norman, si tu échoues tes exams, tu devras m'envoyer une photo de toi nu! Déso! C'est les règles!",
-    "Alors? Ça bosse?"
+    "Alors? Ça bosse?",
+    "Je serais peut-être un prédateur, mais toi t’es la proie de ta propre flemme.",
+    "Le saviez-tu ? Réviser augmente tes chances de réussite de 97%. Le reste c’est la génétique, et t’es mal barré.",
+    "Tu veux être quelqu’un dans la vie ou finir comme moi?",
+    "Un jour tu diras à tes enfants : 'J’ai tout raté, mais au moins j’ai reçu des messages de Norman.' Et ils pleureront.",
+    "Si t’échoues, t’inquiète : je t’invite à mon prochain procès. En VIP.",
+    "Si tu travailles pas, j’te préviens, j’envoie MON historique de navigation à tes parents ET à ta prof principale, en faisant croire que c'est le tiens!",
+    "J’ai été accusé de beaucoup de choses… Mais jamais d’avoir raté un BTS. Toi t’es en bonne voie si tu bosses pas!"
 ]
 
 # --- Bot Setup ---
