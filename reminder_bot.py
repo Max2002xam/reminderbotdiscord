@@ -45,7 +45,7 @@ async def send_reminder():
     if user:
         message = random.choice(REMINDER_MESSAGES)
         try:
-            await user.send(message)
+            await user.send(f"{message} aussi cherche Ada en 3d!")
             print(f"✅ Sent reminder to {user.name}")
             print(f"Message sent : {message}")
         except Exception as e:
